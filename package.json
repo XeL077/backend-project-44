@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Тетсовое задание ментора курса hexlet",
+  "main": "index.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XeL077/backend-project-44.git"
+  },
+  "author": "XeL077",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XeL077/backend-project-44/issues"
+  },
+  "homepage": "https://github.com/XeL077/backend-project-44#readme"
+}
